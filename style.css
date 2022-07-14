@@ -9,7 +9,6 @@
 body {
     background-color: #16161a;
     font-family: "Poppins", sans-serif;
-    overflow: hidden; /* Hide scrollbar */
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
