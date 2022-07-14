@@ -19,4 +19,4 @@
 
 ### 🙏 Credits:
 
-* Ce serait pas sympa de pas mettre que je me suis pas *inspiré* du site de [Paradox](https://github.com/KanekiWeb/kanekiweb.github.io)
+* Ce serait pas sympa de pas mettre que je me suis *inspiré* du site de [Paradox](https://github.com/KanekiWeb/kanekiweb.github.io)
