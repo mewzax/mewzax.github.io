@@ -13,5 +13,6 @@
 
 ### ✨ Features:
 ```
+- Animations
 - Translucent selection
 ```
