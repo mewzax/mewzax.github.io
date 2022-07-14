@@ -16,6 +16,14 @@ body {
     -ms-user-select: none; /* Internet Explorer/Edge */
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    scrollbar-width: none;
+}
+
 img {
     user-select: none;
     -moz-user-select: none;
